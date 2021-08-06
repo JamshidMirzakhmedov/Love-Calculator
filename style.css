@@ -1,0 +1,80 @@
+.container h1 {
+    font-family: sans-serif;
+    color: red;
+}
+
+.love-generator {
+    margin: 0 auto;
+    width: 50%;
+    text-align: left;
+}
+
+h3 {
+    margin: 0 auto !important;
+}
+
+/* form section  */
+
+form {
+    width: 70%;
+    margin: 0 auto !important;
+   
+    text-align: left;
+    position: relative;
+}
+
+.label-title {
+    margin: 6% 0 !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.col1 {
+    border-left: solid red;
+}
+
+.col-6 {
+    
+    padding-left: 5% !important ;
+}
+
+.name1 {
+    width: 300px !important; 
+    height: 50px;
+    font-size: 1.4rem;
+    border: gray solid 1px;
+    outline: 0 !important;
+   
+}
+
+i {
+    background-color: #fff !important;
+}
+
+.fa-heart {
+    color: red;
+    border: solid red;
+    padding: 1% 1%;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    right: 362px;
+}
+
+
+.gender label {
+    font-size: 1.2rem;
+}
+
+button {
+  width: 30% !important;
+  margin: 2% auto 2% !important;
+  font-family: serif;
+  font-size: 1.2rem !important;
+}
+
+.result {
+    padding: 1% 0;
+color: red;
+
+}
